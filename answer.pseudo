@@ -1,0 +1,9 @@
+<?php 
+/*function accept($name)
+{
+$number=rand(6,15);
+$username=$name.$number;
+echo  $username;
+}
+accept('rohan');*/
+?>
